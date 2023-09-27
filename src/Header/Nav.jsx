@@ -20,9 +20,7 @@ const Nav = () => {
                     </div>
                     <div className="text-xl p-2 cursor-pointer border-2 border-black/30 outline-none rounded-full relative">
                         <AiOutlineShoppingCart/>
-                        <div className='absolute -right-1 -top-1 bg-red-600 text-white text-base w-5 h-5 text-center rounded-full'>
-                            2
-                        </div>
+                        <div className="absolute -right-1 -top-1 bg-red-600 text-white text-base w-5 h-5 text-center rounded-full">2</div>
                     </div>
                 </div>
             </div>
