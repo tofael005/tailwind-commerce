@@ -6,6 +6,7 @@ const HeroSection = () => {
             <h1>Hero Area</h1>
             <h1>area</h1>
             <h1>areafgjfgj</h1>
+            <h1>sdfjkghsdfjkghsdjkfgh</h1>
         </div>
     );
 };
