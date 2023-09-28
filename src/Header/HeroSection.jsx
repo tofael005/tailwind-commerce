@@ -5,6 +5,7 @@ const HeroSection = () => {
         <div className="mt-6">
             <h1>Hero Area</h1>
            <h1>Hello World</h1>
+           <h1>Hello Worlds</h1>
         </div>
     );
 };
