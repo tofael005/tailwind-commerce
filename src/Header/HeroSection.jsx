@@ -7,6 +7,7 @@ const HeroSection = () => {
            <h1>Hello World</h1>
            <h1>Hello Worlds</h1>
            <h1>Hello Worlds</h1>
+           <h1>Hello fghdfjghd Worlds</h1>
         </div>
     );
 };
