@@ -3,11 +3,11 @@
 const HeroSection = () => {
     return (
         <div className="mt-6">
-            <h1>Hero Area</h1>
-           <h1>Hello World</h1>
-           <h1>Hello Worlds</h1>
-           <h1>Hello Worlds</h1>
-           <h1>Hello fghdfjghd Worlds</h1>
+            <div>
+                <div>
+                    <img src="/src/assets/product/ideogram (11).jpeg" alt="" />
+                </div>
+            </div>
         </div>
     );
 };
