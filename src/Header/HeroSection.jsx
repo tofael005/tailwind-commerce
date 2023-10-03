@@ -13,6 +13,7 @@ const HeroSection = () => {
                     <img className="w-full h-[270px] md:mt-3" src="/src/assets/product/ideogram (13).jpeg" alt="" />
                     <h1>hello</h1>
                     <h1>hello</h1>
+                    <h1>hello</h1>
                 </div>
             </div>
         </div>
