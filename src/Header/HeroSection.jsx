@@ -11,12 +11,7 @@ const HeroSection = () => {
                 <div className="md:w-[400px]">
                     <img className="w-full h-[270px] md:mb-14 mb-6" src="/src/assets/product/ideogram (12).jpeg" alt="" />
                     <img className="w-full h-[270px] md:mt-3" src="/src/assets/product/ideogram (13).jpeg" alt="" />
-                    <h1>hello</h1>
-                    <h1>hello</h1>
-                    <h1>hello</h1>
-                    <h1>hello</h1>
-                    <h1>hello</h1>
-                    <h1>hello</h1>
+                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, quae.</p>
                 </div>
             </div>
         </div>
