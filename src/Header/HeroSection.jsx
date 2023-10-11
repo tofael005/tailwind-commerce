@@ -13,6 +13,7 @@ const HeroSection = () => {
                     <img className="w-full h-[270px] md:mt-3" src="/src/assets/product/ideogram (13).jpeg" alt="" />
                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, quae.</p>
                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, id!</p>
+                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, id!</p>
                 </div>
             </div>
         </div>
