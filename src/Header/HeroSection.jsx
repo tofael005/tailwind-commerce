@@ -9,7 +9,13 @@ const HeroSection = () => {
                     <button className="absolute top-[500px] md:left-80 left-24 bg-sky-400 font-semibold hover:text-white rounded-md hover:shadow-black/30 hover:shadow-md duration-300 p-3">Click the food details.</button>
                 </div>
                 <div className="md:w-[400px]">
-                    <img className="w-full h-[270px] rounded-md md:mb-14 mb-6" src="/src/assets/product/ideogram (12).jpeg" alt="" />
+                    <div>
+                        <img className="w-full h-[270px] rounded-md mb-2" src="/src/assets/product/ideogram (12).jpeg" alt="" />
+                        <div className="flex justify-between items-center">
+                            <p>American Burger</p>
+                            <p>$24</p>
+                        </div>
+                    </div>
                     <img className="w-full h-[270px] rounded-md md:mt-3" src="/src/assets/product/ideogram (13).jpeg" alt="" />
                 </div>
             </div>
