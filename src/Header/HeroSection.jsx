@@ -15,6 +15,7 @@ const HeroSection = () => {
                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, id!</p>
                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, id!</p>
                    <h1>Lorem ipsum dolor sit amet.</h1>
+                   <h1>Lorem ipsum dolor sit amet.</h1>
                 </div>
             </div>
         </div>
