@@ -1,6 +1,7 @@
 
 import { AiOutlineShoppingCart, AiOutlineUser } from 'react-icons/ai';
 import { BsSearch } from 'react-icons/bs';
+import { NavLink } from 'react-router-dom';
 
 
 const Nav = () => {
@@ -16,12 +17,15 @@ const Nav = () => {
 
                 <div className="flex gap-5 items-center">
                     <div className="text-xl p-2 cursor-pointer border-2 border-black/30 outline-none rounded-full">
-                        <AiOutlineUser />
+                        <NavLink><AiOutlineUser /></NavLink>
                     </div>
                     <div className="text-xl p-2 cursor-pointer border-2 border-black/30 outline-none rounded-full relative">
                         <AiOutlineShoppingCart/>
                         <div className="absolute -right-1 -top-1 bg-red-600 text-white text-base w-5 h-5 text-center rounded-full">2</div>
                     </div>
+
+
+                    <h1>ghfgh</h1>
                 </div>
             </div>
         </div>
