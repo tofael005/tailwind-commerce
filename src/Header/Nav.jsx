@@ -26,6 +26,7 @@ const Nav = () => {
 
 
                     <h1>ghfgh</h1>
+                    <h1>ghfgh</h1>
                 </div>
             </div>
         </div>
